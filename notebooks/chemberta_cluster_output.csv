@@ -1,0 +1,381 @@
+Drug,SMILES,Cluster,UMAP1,UMAP2
+olaparib,"{'smiles': 'C1CC1C(=O)N2CCN(CC2)C(=O)C3=C(C=CC(=C3)CC4=NNC(=O)C5=CC=CC=C54)F', 'cid': '23725625'}",3,3.639561,-0.49343136
+Zileuton,"{'smiles': 'CC(C1=CC2=CC=CC=C2S1)N(C(=O)N)O', 'cid': '60490'}",2,-0.049662728,1.8625495
+Paclitaxel,"{'smiles': 'CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1OC(=O)C(C(C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C', 'cid': '36314'}",1,4.63822,-0.4673436
+Acetazolamide,"{'smiles': 'CC(=O)NC1=NN=C(S1)S(=O)(=O)N', 'cid': '1986'}",2,-0.6663349,0.38404757
+Cytarabine,"{'smiles': 'C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)O', 'cid': '6253'}",2,-1.4531597,1.71747
+ULK-101,"{'smiles': 'C1CC1C(C(F)(F)F)NC(=O)C2=CC(=CS2)C3=C4N=CC(=CN4N=C3)C5=CC=C(C=C5)F', 'cid': '137628686'}",3,3.8286393,-0.42053846
+Entrectinib,"{'smiles': 'CN1CCN(CC1)C2=CC(=C(C=C2)C(=O)NC3=NNC4=C3C=C(C=C4)CC5=CC(=CC(=C5)F)F)NC6CCOCC6', 'cid': '25141092'}",0,3.916725,0.16132246
+APTO-253,"{'smiles': 'CC1=C(C2=C(N1)C=CC(=C2)F)C3=NC4=C5C=CC=NC5=C6C(=C4N3)C=CC=N6', 'cid': '11960271'}",1,4.0273643,-0.021387503
+Esmolol (hydrochloride),"{'smiles': 'CC(C)NCC(COC1=CC=C(C=C1)CCC(=O)OC)O.Cl', 'cid': '104769'}",2,0.42920583,1.8144171
+Cytarabine (hydrochloride),"{'smiles': 'C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)O.Cl', 'cid': '6252'}",2,-1.3917468,1.706756
+Alpelisib,"{'smiles': 'CC1=C(SC(=N1)NC(=O)N2CCCC2C(=O)N)C3=CC(=NC=C3)C(C)(C)C(F)(F)F', 'cid': '56649450'}",2,-0.4161627,0.7138747
+Ferulic acid,"{'smiles': 'COC1=C(C=CC(=C1)C=CC(=O)O)O', 'cid': '445858'}",3,-0.61857426,0.65094817
+XRK3F2,"{'smiles': 'C1=CC(=CC=C1COC2=C(C=C(C=C2)CNCCO)OCC3=CC=C(C=C3)F)F.Cl', 'cid': '135397144'}",3,2.3858833,0.26743478
+Ivermectin,"{'smiles': 'CCC(C)C1C(CCC2(O1)CC3CC(O2)CC=C(C(C(C=CC=C4COC5C4(C(C=C(C5O)C)C(=O)O3)O)C)OC6CC(C(C(O6)C)OC7CC(C(C(O7)C)O)OC)OC)C)C', 'cid': '4330618'}",2,0.70682067,4.46978
+Oleic acid,"{'smiles': 'CCCCCCCCC=CCCCCCCCC(=O)O', 'cid': '445639'}",2,-0.006317273,2.281065
+Verapamil,"{'smiles': 'CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC', 'cid': '2520'}",0,0.77274686,3.6114175
+Silodosin,"{'smiles': 'CC(CC1=CC2=C(C(=C1)C(=O)N)N(CC2)CCCO)NCCOC3=CC=CC=C3OCC(F)(F)F', 'cid': '5312125'}",2,1.167418,2.7557607
+Abemaciclib,"{'smiles': 'CCN1CCN(CC1)CC2=CN=C(C=C2)NC3=NC=C(C(=N3)C4=CC5=C(C(=C4)F)N=C(N5C(C)C)C)F', 'cid': '46220502'}",0,2.2812798,2.8509371
+Cabozantinib (S-malate),"{'smiles': 'COC1=CC2=C(C=CN=C2C=C1OC)OC3=CC=C(C=C3)NC(=O)C4(CC4)C(=O)NC5=CC=C(C=C5)F.C(C(C(=O)O)O)C(=O)O', 'cid': '25102846'}",1,3.651596,-1.0242935
+Tucatinib,"{'smiles': 'CC1=C(C=CC(=C1)NC2=NC=NC3=C2C=C(C=C3)NC4=NC(CO4)(C)C)OC5=CC6=NC=NN6C=C5', 'cid': '51039094'}",0,3.1650639,0.9325798
+Arbutin,"{'smiles': 'C1=CC(=CC=C1O)OC2C(C(C(C(O2)CO)O)O)O', 'cid': '440936'}",2,-1.6951106,1.4986686
+Sunitinib,"{'smiles': 'CCN(CC)CCNC(=O)C1=C(NC(=C1C)C=C2C3=C(C=CC(=C3)F)NC2=O)C', 'cid': '5329102'}",3,1.223207,2.003793
+Eplerenone,"{'smiles': 'CC12CCC(=O)C=C1CC(C3C24C(O4)CC5(C3CCC56CCC(=O)O6)C)C(=O)OC', 'cid': '443872'}",2,-0.5224516,4.1278367
+Fostamatinib (disodium hexahydrate),"{'smiles': 'CC1(C(=O)N(C2=C(O1)C=CC(=N2)NC3=NC(=NC=C3F)NC4=CC(=C(C(=C4)OC)OC)OC)COP(=O)([O-])[O-])C.O.O.O.O.O.O.[Na+].[Na+]', 'cid': '146673142'}",1,4.2402487,-0.57599354
+Uridine,"{'smiles': 'C1=CN(C(=O)NC1=O)C2C(C(C(O2)CO)O)O', 'cid': '6029'}",2,-1.6420825,1.6082132
+Verteporfin,"{'smiles': 'not found', 'cid': 'not found'}",3,-1.2049719,-1.228856
+Erythromycin,"{'smiles': 'CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O', 'cid': '12560'}",2,0.67861575,4.480555
+Allopurinol,"{'smiles': 'C1=NNC2=C1C(=O)NC=N2', 'cid': '135401907'}",3,-0.9460595,-0.07355045
+Cilostazol,"{'smiles': 'C1CCC(CC1)N2C(=NN=N2)CCCCOC3=CC4=C(C=C3)NC(=O)CC4', 'cid': '2754'}",2,1.3620682,3.1644905
+Thymol,"{'smiles': 'CC1=CC(=C(C=C1)C(C)C)O', 'cid': '6989'}",3,-0.19028156,-0.264148
+18-beta-Glycyrrhetinic acid,"{'smiles': 'CC1(C2CCC3(C(C2(CCC1O)C)C(=O)C=C4C3(CCC5(C4CC(CC5)(C)C(=O)O)C)C)C)C', 'cid': '10114'}",2,-0.68324304,4.4249997
+Tofacitinib,"{'smiles': 'CC1CCN(CC1N(C)C2=NC=NC3=C2C=CN3)C(=O)CC#N', 'cid': '9926791'}",2,0.007557551,2.5763445
+Posaconazole,"{'smiles': 'CCC(C(C)O)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OCC5CC(OC5)(CN6C=NC=N6)C7=C(C=C(C=C7)F)F', 'cid': '468595'}",0,2.876982,1.777489
+Decitabine,"{'smiles': 'C1C(C(OC1N2C=NC(=NC2=O)N)CO)O', 'cid': '451668'}",2,-1.6372653,1.8051666
+LY-2584702 (tosylate salt),"{'smiles': 'CC1=CC=C(C=C1)S(=O)(=O)O.CN1C=C(N=C1C2CCN(CC2)C3=NC=NC4=C3C=NN4)C5=CC(=C(C=C5)F)C(F)(F)F', 'cid': '46205871'}",1,3.8205068,-0.7425916
+Sacubitril Valsartan,"{'smiles': 'CCCCC(=O)N(CC1=CC=C(C=C1)C2=CC=CC=C2C3=NNN=N3)C(C(C)C)C(=O)O.CCOC(=O)C(C)CC(CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)O', 'cid': '24755620'}",1,2.646822,-0.062550135
+Procainamide (hydrochloride),"{'smiles': 'CCN(CC)CCNC(=O)C1=CC=C(C=C1)N.Cl', 'cid': '66068'}",2,0.56057894,1.9739544
+Pemetrexed,"{'smiles': 'C1=CC(=CC=C1CCC2=CNC3=C2C(=O)NC(=N3)N)C(=O)NC(CCC(=O)O)C(=O)O', 'cid': '135410875'}",0,-0.006428706,3.4670057
+Methyl aminolevulinate (hydrochloride),"{'smiles': 'COC(=O)CCC(=O)CN.Cl', 'cid': '157921'}",2,0.008714201,1.3295896
+CP21R7,"{'smiles': 'CN1C=C(C2=CC=CC=C21)C3=C(C(=O)NC3=O)C4=CC(=CC=C4)N', 'cid': '5327711'}",3,4.5094523,0.92914003
+Trametinib,"{'smiles': 'CC1=C2C(=C(N(C1=O)C)NC3=C(C=C(C=C3)I)F)C(=O)N(C(=O)N2C4=CC=CC(=C4)NC(=O)C)C5CC5', 'cid': '11707110'}",1,4.079221,-1.011992
+Methotrexate,"{'smiles': 'CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O', 'cid': '126941'}",0,0.102877855,3.2824094
+Regorafenib,"{'smiles': 'CNC(=O)C1=NC=CC(=C1)OC2=CC(=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F)F', 'cid': '11167602'}",3,3.7130542,-0.5986083
+MK-3903,"{'smiles': 'CC1=C(C=C(C=C1)OC2=NC3=C(N2)C=C(C(=C3)C4=CC=C(C=C4)C5=CC=CC=C5)Cl)C(=O)O', 'cid': '45256689'}",1,3.3799336,-0.624293
+Tofacitinib (citrate),"{'smiles': 'CC1CCN(CC1N(C)C2=NC=NC3=C2C=CN3)C(=O)CC#N.C(C(=O)O)C(CC(=O)O)(C(=O)O)O', 'cid': '10174505'}",0,-0.1488207,3.436282
+Sodium Salicylate,"{'smiles': 'C1=CC=C(C(=C1)C(=O)[O-])O.[Na+]', 'cid': '16760658'}",2,-0.5163562,1.1869537
+Tubulin inhibitor 6,"{'smiles': 'COC1=CC=C(C=C1)C(=O)N2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl', 'cid': '2359994'}",3,2.8553846,-0.16927925
+Fusidic acid,"{'smiles': 'CC1C2CCC3(C(C2(CCC1O)C)C(CC4C3(CC(C4=C(CCC=C(C)C)C(=O)O)OC(=O)C)C)O)C', 'cid': '3000226'}",2,-0.5131802,4.4517794
+Carbidopa (monohydrate),"{'smiles': 'CC(CC1=CC(=C(C=C1)O)O)(C(=O)O)NN', 'cid': '2563'}",2,-0.19085373,2.0838923
+Olanzapine,"{'smiles': 'CC1=CC2=C(S1)NC3=CC=CC=C3N=C2N4CCN(CC4)C', 'cid': '135398745'}",0,1.935487,3.0697305
+Ropivacaine (hydrochloride monohydrate),"{'smiles': 'CCCN1CCCCC1C(=O)NC2=C(C=CC=C2C)C.O.Cl', 'cid': '6918111'}",2,0.08796881,1.7401472
+Demeclocycline,"{'smiles': 'CN(C)C1C2CC3C(C4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)Cl)O', 'cid': '54680690'}",2,0.2684512,5.0406737
+Pimozide,"{'smiles': 'C1CN(CCC1N2C3=CC=CC=C3NC2=O)CCCC(C4=CC=C(C=C4)F)C5=CC=C(C=C5)F', 'cid': '16362'}",3,2.6351418,-0.019896444
+Gemfibrozil,"{'smiles': 'CC1=CC(=C(C=C1)C)OCCCC(C)(C)C(=O)O', 'cid': '3463'}",2,0.08210302,2.4388876
+Cobimetinib,"{'smiles': 'C1CCNC(C1)C2(CN(C2)C(=O)C3=C(C(=C(C=C3)F)F)NC4=C(C=C(C=C4)I)F)O', 'cid': '16222096'}",3,4.201209,-1.0855474
+Radotinib,"{'smiles': 'CC1=C(C=C(C=C1)C(=O)NC2=CC(=CC(=C2)C(F)(F)F)N3C=C(N=C3)C)NC4=NC=CC(=N4)C5=NC=CN=C5', 'cid': '16063245'}",1,3.5948095,0.10151093
+Ralimetinib dimesylate,"{'smiles': 'CC(C)(C)CN1C2=C(C=CC(=N2)C3=C(N=C(N3)C(C)(C)C)C4=CC=C(C=C4)F)N=C1N.CS(=O)(=O)O.CS(=O)(=O)O', 'cid': '11570805'}",3,3.9335654,1.8983791
+Estrone sulfate (potassium),"{'smiles': 'CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)OS(=O)(=O)[O-].[K+]', 'cid': '23674502'}",2,0.10875778,2.049011
+Malotilate,"{'smiles': 'CC(C)OC(=O)C(=C1SC=CS1)C(=O)OC(C)C', 'cid': '4006'}",2,-0.7710513,1.0041105
+Captopril,"{'smiles': 'CC(CS)C(=O)N1CCCC1C(=O)O', 'cid': '44093'}",2,-0.74154764,2.5780764
+Pyridoxine (hydrochloride),"{'smiles': 'CC1=NC=C(C(=C1O)CO)CO.Cl', 'cid': '6019'}",3,-0.7515576,-0.262379
+Berbamine,"{'smiles': 'CN1CCC2=CC(=C3C=C2C1CC4=CC=C(C=C4)OC5=C(C=CC(=C5)CC6C7=C(O3)C(=C(C=C7CCN6C)OC)OC)O)OC', 'cid': '275182'}",1,4.4984317,0.571964
+AZD-8055,"{'smiles': 'CC1COCCN1C2=NC(=NC3=C2C=CC(=N3)C4=CC(=C(C=C4)OC)CO)N5CCOCC5C', 'cid': '25262965'}",0,2.3823168,3.0305753
+Dexamethasone,"{'smiles': 'CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)F)C', 'cid': '5743'}",2,-0.23595226,4.7344227
+Brivudine,"{'smiles': 'C1C(C(OC1N2C=C(C(=O)NC2=O)C=CBr)CO)O', 'cid': '446727'}",2,-1.3035097,1.5979991
+Resveratrol,"{'smiles': 'C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O', 'cid': '445154'}",3,2.6008236,0.11401631
+Digitoxin,"{'smiles': 'CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CCC7(C6(CCC7C8=CC(=O)OC8)O)C)C)C)C)O)O', 'cid': '441207'}",2,0.3815146,4.267349
+Folic acid,"{'smiles': 'C1=CC(=CC=C1C(=O)NC(CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N', 'cid': '135398658'}",0,0.06655541,3.3942592
+Amsacrine,"{'smiles': 'COC1=C(C=CC(=C1)NS(=O)(=O)C)NC2=C3C=CC=CC3=NC4=CC=CC=C42', 'cid': '2179'}",3,3.433941,-0.21505266
+Lumateperone (tosylate),"{'smiles': 'CC1=CC=C(C=C1)S(=O)(=O)O.CN1CCN2C3CCN(CC3C4=C2C1=CC=C4)CCCC(=O)C5=CC=C(C=C5)F', 'cid': '44241743'}",0,2.2307124,1.0541927
+(S)-Crizotinib,"{'smiles': 'CC(C1=C(C=CC(=C1Cl)F)Cl)OC2=C(N=CC(=C2)C3=CN(N=C3)C4CCNCC4)N', 'cid': '56671814'}",3,1.2410442,-0.35678092
+DTP3,"{'smiles': 'CC(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(CCCN=C(N)N)C(=O)NC(CC2=CC=CC=C2)C(=O)N', 'cid': '86295191'}",3,3.1952603,-1.2620171
+Adenosine,"{'smiles': 'C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N', 'cid': '60961'}",2,-1.5876523,2.08455
+Irinotecan (hydrochloride),"{'smiles': 'CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)C4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7.Cl', 'cid': '74990'}",0,3.0627155,2.657761
+Daidzin,"{'smiles': 'C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)OC4C(C(C(C(O4)CO)O)O)O)O', 'cid': '107971'}",0,0.7320364,5.027407
+Cinacalcet,"{'smiles': 'CC(C1=CC=CC2=CC=CC=C21)NCCCC3=CC(=CC=C3)C(F)(F)F', 'cid': '156419'}",3,2.3507903,-0.3390475
+Bisoprolol (hemifumarate),"{'smiles': 'C.CC(C)NCC(COC1=CC=C(C=C1)COCCOC(C)C)O.C(=CC(=O)O)C(=O)O', 'cid': '168312271'}",2,0.3796464,2.5252926
+Aliskiren,"{'smiles': 'CC(C)C(CC1=CC(=C(C=C1)OC)OCCCOC)CC(C(CC(C(C)C)C(=O)NCC(C)(C)C(=O)N)O)N', 'cid': '5493444'}",2,-0.54699814,4.0286145
+Artemether,"{'smiles': 'CC1CCC2C(C(OC3C24C1CCC(O3)(OO4)C)OC)C', 'cid': '68911'}",2,-1.104633,2.8405588
+Oxaprozin,"{'smiles': 'C1=CC=C(C=C1)C2=C(OC(=N2)CCC(=O)O)C3=CC=CC=C3', 'cid': '4614'}",3,2.7313724,-0.15980622
+Quinestrol,"{'smiles': 'CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)OC5CCCC5', 'cid': '9046'}",2,-0.7047608,4.4448023
+Gallic acid,"{'smiles': 'C1=C(C=C(C(=C1O)O)O)C(=O)O', 'cid': '370'}",2,-1.3826352,1.0185018
+Megestrol,"{'smiles': 'CC1=CC2C(CCC3(C2CCC3(C(=O)C)O)C)C4(C1=CC(=O)CC4)C', 'cid': '19090'}",2,-0.76406664,4.32235
+Sonidegib,"{'smiles': 'CC1CN(CC(O1)C)C2=NC=C(C=C2)NC(=O)C3=CC=CC(=C3C)C4=CC=C(C=C4)OC(F)(F)F', 'cid': '24775005'}",3,2.865321,-0.83357865
+Flumatinib (mesylate),"{'smiles': 'CC1=C(C=C(C=N1)NC(=O)C2=CC(=C(C=C2)CN3CCN(CC3)C)C(F)(F)F)NC4=NC=CC(=N4)C5=CN=CC=C5.CS(=O)(=O)O', 'cid': '46910592'}",1,3.6920605,0.30563262
+Almonertinib (hydrochloride),"{'smiles': 'CN(C)CCN(C)C1=CC(=C(C=C1NC(=O)C=C)NC2=NC=CC(=N2)C3=CN(C4=CC=CC=C43)C5CC5)OC.Cl', 'cid': '137319707'}",0,3.4042351,2.0240533
+Phenytoin (sodium),"{'smiles': 'C1=CC=C(C=C1)C2(C(=O)NC(=N2)[O-])C3=CC=CC=C3.[Na+]', 'cid': '23679632'}",3,3.047554,0.07048991
+Panobinostat,"{'smiles': 'CC1=C(C2=CC=CC=C2N1)CCNCC3=CC=C(C=C3)C=CC(=O)NO', 'cid': '6918837'}",3,2.946212,-0.228955
+Lactate (calcium),"{'smiles': 'C.CC(C(=O)[O-])O.[Ca+2]', 'cid': '168311648'}",2,-0.86539006,1.7313685
+DT-061,"{'smiles': 'C1CC(C(C(C1)N2C3=CC=CC=C3OC4=CC=CC=C42)O)NS(=O)(=O)C5=CC=C(C=C5)OC(F)(F)F', 'cid': '91885558'}",3,2.8406851,-0.87464374
+Medroxyprogesterone acetate,"{'smiles': 'CC1CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CC(=O)CC4)C', 'cid': '6279'}",2,-0.9264015,4.109876
+Osimertinib (mesylate),"{'smiles': 'not found', 'cid': 'not found'}",3,-1.1554003,-1.1721674
+Ixazomib,"{'smiles': 'B(C(CC(C)C)NC(=O)CNC(=O)C1=C(C=CC(=C1)Cl)Cl)(O)O', 'cid': '25183872'}",2,0.15945554,1.6436841
+PH-797804,"{'smiles': 'CC1=C(C=C(C=C1)C(=O)NC)N2C(=CC(=C(C2=O)Br)OCC3=C(C=C(C=C3)F)F)C', 'cid': '22049997'}",3,4.3289647,-0.07166091
+Voriconazole,"{'smiles': 'CC(C1=NC=NC=C1F)C(CN2C=NC=N2)(C3=C(C=C(C=C3)F)F)O', 'cid': '71616'}",3,4.128712,-1.192585
+Thymopentin,"{'smiles': 'CC(C)C(C(=O)NC(CC1=CC=C(C=C1)O)C(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(CCCCN)NC(=O)C(CCCN=C(N)N)N', 'cid': '451417'}",3,3.171369,-1.5908402
+Crizotinib (hydrochloride),"{'smiles': 'CC(C1=C(C=CC(=C1Cl)F)Cl)OC2=C(N=CC(=C2)C3=CN(N=C3)C4CCNCC4)N.Cl', 'cid': '71576688'}",3,1.2791562,-0.43166938
+AT7519,"{'smiles': 'C1CNCCC1NC(=O)C2=C(C=NN2)NC(=O)C3=C(C=CC=C3Cl)Cl', 'cid': '11338033'}",2,0.98952127,2.098889
+Filgotinib,"{'smiles': 'C1CC1C(=O)NC2=NN3C(=N2)C=CC=C3C4=CC=C(C=C4)CN5CCS(=O)(=O)CC5', 'cid': '49831257'}",0,1.7243404,3.2282617
+Fulvestrant,"{'smiles': 'CC12CCC3C(C1CCC2O)C(CC4=C3C=CC(=C4)O)CCCCCCCCCS(=O)CCCC(C(F)(F)F)(F)F', 'cid': '104741'}",2,-0.6533245,4.4842596
+Budesonide,"{'smiles': 'CCCC1OC2CC3C4CCC5=CC(=O)C=CC5(C4C(CC3(C2(O1)C(=O)CO)C)O)C', 'cid': '5281004'}",2,-0.1901118,4.514149
+SBI-0640756,"{'smiles': 'C1=CC=C(C=C1)C2=C(C(=O)NC3=C2C=C(C=C3)Cl)C(=O)C=CC4=CC(=CN=C4)F', 'cid': '121241171'}",1,3.111908,-0.025783543
+Celecoxib,"{'smiles': 'CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F', 'cid': '2662'}",3,2.1877632,-0.47097403
+Artesunate,"{'smiles': 'CC1CCC2C(C(OC3C24C1CCC(O3)(OO4)C)OC(=O)CCC(=O)O)C', 'cid': '6917864'}",2,-1.0950181,2.8976853
+Ixazomib citrate,"{'smiles': 'B1(OC(=O)C(O1)(CC(=O)O)CC(=O)O)C(CC(C)C)NC(=O)CNC(=O)C2=C(C=CC(=C2)Cl)Cl', 'cid': '56844015'}",3,2.9770997,-1.6041876
+Canagliflozin (hemihydrate),"{'smiles': 'not found', 'cid': 'not found'}",3,-1.1609746,-1.3048267
+Pravastatin (sodium),"{'smiles': 'CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC(CC(CC(=O)[O-])O)O)O.[Na+]', 'cid': '16759173'}",2,-0.29359284,4.2036157
+Sinomenine,"{'smiles': 'CN1CCC23CC(=O)C(=CC2C1CC4=C3C(=C(C=C4)OC)O)OC', 'cid': '5459308'}",2,0.23100469,1.8729467
+ML264,"{'smiles': 'CN(C1CCS(=O)(=O)CC1)C(=O)CNC(=O)C=CC2=CC(=CC=C2)Cl', 'cid': '51003603'}",2,0.5122779,1.4286245
+Rutin (trihydrate),"{'smiles': 'CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O.O.O.O', 'cid': '16218542'}",1,0.7874526,4.9816175
+"Dapagliflozin ((2S)-1,2-propanediol, hydrate)","{'smiles': 'CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)C3C(C(C(C(O3)CO)O)O)O)Cl.CC(CO)O.O', 'cid': '24906252'}",0,2.034529,0.6280044
+NVP-BHG712,"{'smiles': 'CC1=C(C=C(C=C1)C(=O)NC2=CC=CC(=C2)C(F)(F)F)NC3=C4C=NN(C4=NC(=N3)C5=CN=CC=C5)C', 'cid': '16747388'}",1,4.041661,-0.81248134
+Flutamide,"{'smiles': 'CC(C)C(=O)NC1=CC(=C(C=C1)[N+](=O)[O-])C(F)(F)F', 'cid': '3397'}",3,0.03832639,1.234823
+Bimatoprost,"{'smiles': 'CCNC(=O)CCCC=CCC1C(CC(C1C=CC(CCC2=CC=CC=C2)O)O)O', 'cid': '5311027'}",2,0.98208815,2.894578
+c-Kit-IN-1,"{'smiles': 'CN1C=C(C=N1)C2=NC=CC(=C2)OC3=C(C=C(C(=C3)F)NC(=O)C4(CC4)C(=O)NC5=CC=CC=C5)F', 'cid': '46208890'}",1,4.091517,-1.1539252
+Hydroxyfasudil,"{'smiles': 'C1CNCCN(C1)S(=O)(=O)C2=CC=CC3=C2C=CNC3=O', 'cid': '3064778'}",2,1.030693,1.9622939
+Gemcitabine,"{'smiles': 'C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)(F)F', 'cid': '60750'}",2,-1.3066392,1.7770702
+Naproxen,"{'smiles': 'CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O', 'cid': '156391'}",3,0.12916364,-0.50003344
+GSK1059615,"{'smiles': 'C1=CC2=NC=CC(=C2C=C1C=C3C(=O)NC(=O)S3)C4=CC=NC=C4', 'cid': '23582824'}",3,4.0519104,1.038313
+Encorafenib,"{'smiles': 'CC(C)N1C=C(C(=N1)C2=C(C(=CC(=C2)Cl)NS(=O)(=O)C)F)C3=NC(=NC=C3)NCC(C)NC(=O)OC', 'cid': '50922675'}",3,4.1435266,-1.142401
+Norepinephrine (hydrochloride),"{'smiles': 'C1=CC(=C(C=C1C(CN)O)O)O.Cl', 'cid': '11672905'}",2,-0.5791577,1.2877775
+Bergenin,"{'smiles': 'COC1=C(C=C2C(=C1O)C3C(C(C(C(O3)CO)O)O)OC2=O)O', 'cid': '66065'}",2,-1.5661464,1.2519355
+Monocrotaline,"{'smiles': 'CC1C(=O)OC2CCN3C2C(=CC3)COC(=O)C(C1(C)O)(C)O', 'cid': '9415'}",2,-1.2030714,2.2813344
+Bestatin,"{'smiles': 'CC(C)CC(C(=O)O)NC(=O)C(C(CC1=CC=CC=C1)N)O', 'cid': '72172'}",2,-0.0769205,2.1520808
+Levobupivacaine (hydrochloride),"{'smiles': 'CCCCN1CCCCC1C(=O)NC2=C(C=CC=C2C)C.Cl', 'cid': '117965'}",2,0.26639986,1.8912812
+Capmatinib,"{'smiles': 'CNC(=O)C1=C(C=C(C=C1)C2=NN3C(=CN=C3N=C2)CC4=CC5=C(C=C4)N=CC=C5)F', 'cid': '25145656'}",1,3.3902438,0.27201733
+Homoharringtonine,"{'smiles': 'CC(C)(CCCC(CC(=O)OC)(C(=O)OC1C2C3=CC4=C(C=C3CCN5C2(CCC5)C=C1OC)OCO4)O)O', 'cid': '285033'}",2,0.3011079,4.1719294
+Infigratinib,"{'smiles': 'CCN1CCN(CC1)C2=CC=C(C=C2)NC3=CC(=NC=N3)N(C)C(=O)NC4=C(C(=CC(=C4Cl)OC)OC)Cl', 'cid': '53235510'}",0,2.9129114,1.7224449
+Benztropine (mesylate),"{'smiles': 'CN1C2CCC1CC(C2)OC(C3=CC=CC=C3)C4=CC=CC=C4.CS(=O)(=O)O', 'cid': '238053'}",0,3.7973878,2.077446
+Ranolazine,"{'smiles': 'CC1=C(C(=CC=C1)C)NC(=O)CN2CCN(CC2)CC(COC3=CC=CC=C3OC)O', 'cid': '56959'}",0,1.0356467,2.6048646
+Bimiralisib,"{'smiles': 'C1COCCN1C2=NC(=NC(=N2)C3=CN=C(C=C3C(F)(F)F)N)N4CCOCC4', 'cid': '58507717'}",0,2.2764075,2.7999108
+Nevirapine,"{'smiles': 'CC1=C2C(=NC=C1)N(C3=C(C=CC=N3)C(=O)N2)C4CC4', 'cid': '4463'}",0,2.5767734,2.3907874
+Meloxicam,"{'smiles': 'CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O', 'cid': '54677470'}",3,3.0928762,-0.6276296
+Goserelin (acetate),"{'smiles': 'CC(C)CC(C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NNC(=O)N)NC(=O)C(COC(C)(C)C)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CO)NC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CC5=CN=CN5)NC(=O)C6CCC(=O)N6.CC(=O)O', 'cid': '16052011'}",1,3.3128211,-1.5093155
+Belinostat,"{'smiles': 'C1=CC=C(C=C1)NS(=O)(=O)C2=CC=CC(=C2)C=CC(=O)NO', 'cid': '6918638'}",3,2.7788024,-0.9073507
+Belzutifan,"{'smiles': 'CS(=O)(=O)C1=C2C(C(C(C2=C(C=C1)OC3=CC(=CC(=C3)C#N)F)F)F)O', 'cid': '117947097'}",2,0.69812024,3.486837
+Tetracycline (hydrochloride),"{'smiles': 'CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O.Cl', 'cid': '54704426'}",2,0.23142298,5.0381637
+Vinblastine (sulfate),"{'smiles': 'CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O.OS(=O)(=O)O', 'cid': '5388983'}",1,4.232731,1.0764005
+Tucidinostat,"{'smiles': 'C1=CC(=CN=C1)C=CC(=O)NCC2=CC=C(C=C2)C(=O)NC3=C(C=C(C=C3)F)N', 'cid': '12136798'}",3,3.1529212,-0.17979397
+PF-06260933,"{'smiles': 'C1=CC(=CC=C1C2=C(N=CC(=C2)C3=CN=C(C=C3)N)N)Cl', 'cid': '118701008'}",3,3.0333817,0.433011
+Indacaterol (maleate),"{'smiles': 'CCC1=C(C=C2CC(CC2=C1)NCC(C3=C4C=CC(=O)NC4=C(C=C3)O)O)CC.C(=CC(=O)O)C(=O)O', 'cid': '9827599'}",0,-0.014451289,3.5830054
+Tranilast,"{'smiles': 'COC1=C(C=C(C=C1)C=CC(=O)NC2=CC=CC=C2C(=O)O)OC', 'cid': '5282230'}",3,2.4927223,-0.9872667
+Adagrasib,"{'smiles': 'CN1CCCC1COC2=NC3=C(CCN(C3)C4=CC=CC5=C4C(=CC=C5)Cl)C(=N2)N6CCN(C(C6)CC#N)C(=O)C(=C)F', 'cid': '138611145'}",0,1.9981903,3.179037
+Cloxacillin (sodium),"{'smiles': 'CC1=C(C(=NO1)C2=CC=CC=C2Cl)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)[O-].[Na+]', 'cid': '23675320'}",3,2.8906603,-1.401862
+Gallic acid (hydrate),"{'smiles': 'C1=C(C=C(C(=C1O)O)O)C(=O)O.O', 'cid': '24721416'}",2,-1.3062495,0.96947676
+Aspirin,"{'smiles': 'CC(=O)OC1=CC=CC=C1C(=O)O', 'cid': '2244'}",3,-0.71346873,0.7430549
+RMC-6236,"{'smiles': 'CCN1C2=C3C=C(C=C2)C4=CSC(=N4)CC(C(=O)N5CCCC(N5)C(=O)OCC(CC3=C1C6=C(N=CC(=C6)N7CCN(CC7)C)C(C)OC)(C)C)NC(=O)C8CC8C', 'cid': '164726578'}",0,4.1955376,0.54944825
+Lenalidomide (hemihydrate),"{'smiles': 'C1CC(=O)NC(=O)C1N2CC3=C(C2=O)C=CC=C3N.C1CC(=O)NC(=O)C1N2CC3=C(C2=O)C=CC=C3N.O', 'cid': '46220375'}",0,3.8573127,1.628589
+Furosemide,"{'smiles': 'C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl', 'cid': '3440'}",2,-0.40921715,1.5095317
+Temsirolimus,"{'smiles': 'CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)OC(=O)C(C)(CO)CO)C)C)O)OC)C)C)C)OC', 'cid': '6918289'}",2,0.59941643,4.4593625
+Busulfan,"{'smiles': 'CS(=O)(=O)OCCCCOS(=O)(=O)C', 'cid': '2478'}",3,-0.84375924,-0.837237
+Methylthiouracil,"{'smiles': 'CC1=CC(=O)NC(=S)N1', 'cid': '667493'}",3,-1.0533261,0.023475418
+Bosentan (hydrate),"{'smiles': 'CC(C)(C)C1=CC=C(C=C1)S(=O)(=O)NC2=C(C(=NC(=N2)C3=NC=CC=N3)OCCO)OC4=CC=CC=C4OC.O', 'cid': '185462'}",1,3.3653965,0.41780373
+Rapamycin,"{'smiles': 'CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)O)C)C)O)OC)C)C)C)OC', 'cid': '5284616'}",2,0.6769795,4.508034
+Tolmetin,"{'smiles': 'CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O', 'cid': '5509'}",2,0.7927712,0.9797443
+Fumaric acid,"{'smiles': 'C(=CC(=O)O)C(=O)O', 'cid': '444972'}",3,-0.7778202,0.555296
+LY2090314,"{'smiles': 'C1CCN(CC1)C(=O)N2CCN3C=C(C4=CC(=CC(=C43)C2)F)C5=C(C(=O)NC5=O)C6=CN=C7N6C=CC=C7', 'cid': '10029385'}",0,3.7465181,1.5562079
+Methylprednisolone succinate,"{'smiles': 'CC1CC2C3CCC(C3(CC(C2C4(C1=CC(=O)C=C4)C)O)C)(C(=O)COC(=O)CCC(=O)O)O', 'cid': '16923'}",2,-0.23768824,4.5762134
+Vilanterol,"{'smiles': 'C1=CC(=C(C(=C1)Cl)COCCOCCCCCCNCC(C2=CC(=C(C=C2)O)CO)O)Cl', 'cid': '10184665'}",2,1.1450908,2.437824
+Elimusertib hydrochloride,"{'smiles': 'CC1COCCN1C2=NC3=C(C=CN=C3C4=CC=NN4)C(=C2)C5=CC=NN5C.Cl', 'cid': '129893299'}",0,1.9331979,2.6620984
+IQ 1,"{'smiles': 'CC(=O)C1=CC=C(C=C1)NN=C(C2=NC(CC3=CC=CC=C32)(C)C)C(=O)N', 'cid': '5823908'}",3,0.8866528,0.6766794
+Rosiglitazone,"{'smiles': 'CN(CCOC1=CC=C(C=C1)CC2C(=O)NC(=O)S2)C3=CC=CC=N3', 'cid': '77999'}",3,4.146013,1.3904464
+AZD2858,"{'smiles': 'CN1CCN(CC1)S(=O)(=O)C2=CC=C(C=C2)C3=CN=C(C(=N3)C(=O)NC4=CN=CC=C4)N', 'cid': '10138980'}",3,3.4740407,0.17146185
+Loperamide (hydrochloride),"{'smiles': 'CN(C)C(=O)C(CCN1CCC(CC1)(C2=CC=C(C=C2)Cl)O)(C3=CC=CC=C3)C4=CC=CC=C4.Cl', 'cid': '71420'}",3,2.615162,-0.17825663
+vincristine,"{'smiles': 'CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O', 'cid': '5978'}",1,4.592209,0.32437214
+Mebendazole,"{'smiles': 'COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=CC=C3', 'cid': '4030'}",3,0.82828695,0.7658942
+Adenine,"{'smiles': 'C1=NC2=NC=NC(=C2N1)N', 'cid': '190'}",3,-0.8451297,-0.049707573
+Clotrimazole,"{'smiles': 'C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3Cl)N4C=CN=C4', 'cid': '2812'}",1,2.7063427,-0.28220883
+Rimonabant (Hydrochloride),"{'smiles': 'CC1=C(N(N=C1C(=O)NN2CCCCC2)C3=C(C=C(C=C3)Cl)Cl)C4=CC=C(C=C4)Cl.Cl', 'cid': '104849'}",3,1.599742,-0.5947593
+Tomivosertib,"{'smiles': 'CC1=C2C(=O)NC3(N2C(=O)C(=C1)NC4=NC=NC(=C4)N)CCCCC3', 'cid': '118598754'}",0,2.319288,2.5817282
+Clobetasol propionate,"{'smiles': 'CCC(=O)OC1(C(CC2C1(CC(C3(C2CCC4=CC(=O)C=CC43C)F)O)C)C)C(=O)CCl', 'cid': '32798'}",2,-0.43381387,4.614885
+Belumosudil (mesylate),"{'smiles': 'CC(C)NC(=O)COC1=CC=CC(=C1)C2=NC3=CC=CC=C3C(=N2)NC4=CC5=C(C=C4)NN=C5.CS(=O)(=O)O', 'cid': '146681181'}",3,3.263725,0.44063202
+Bicalutamide,"{'smiles': 'CC(CS(=O)(=O)C1=CC=C(C=C1)F)(C(=O)NC2=CC(=C(C=C2)C#N)C(F)(F)F)O', 'cid': '2375'}",3,1.9227312,-0.5546668
+Apalutamide,"{'smiles': 'CNC(=O)C1=C(C=C(C=C1)N2C(=S)N(C(=O)C23CCC3)C4=CC(=C(N=C4)C#N)C(F)(F)F)F', 'cid': '24872560'}",3,3.770484,-0.569629
+TAK-901,"{'smiles': 'CCS(=O)(=O)C1=CC=CC(=C1)C2=CC(=C(C3=C2C4=C(N3)N=CC(=C4)C)C)C(=O)NC5CCN(CC5)C', 'cid': '16124208'}",3,1.4831665,-0.53689647
+Imiquimod (maleate),"{'smiles': 'CC(C)CN1C=NC2=C1C3=CC=CC=C3N=C2N.C(=CC(=O)O)C(=O)O', 'cid': '11595577'}",0,0.023690185,3.2369633
+Ritonavir,"{'smiles': 'CC(C)C1=NC(=CS1)CN(C)C(=O)NC(C(C)C)C(=O)NC(CC2=CC=CC=C2)CC(C(CC3=CC=CC=C3)NC(=O)OCC4=CN=CS4)O', 'cid': '392622'}",3,3.2451036,-0.83067894
+Diammonium Glycyrrhizinate,"{'smiles': 'CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C.N.N', 'cid': '656656'}",2,0.047149464,4.2742243
+Glasdegib,"{'smiles': 'CN1CCC(CC1C2=NC3=CC=CC=C3N2)NC(=O)NC4=CC=C(C=C4)C#N', 'cid': '25166913'}",0,1.6577853,3.078181
+Cyclosporin A,"{'smiles': 'CCC1C(=O)N(CC(=O)N(C(C(=O)NC(C(=O)N(C(C(=O)NC(C(=O)NC(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N1)C(C(C)CC=CC)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C', 'cid': '5284373'}",1,3.474822,-1.4514118
+Orlistat,"{'smiles': 'CCCCCCCCCCCC(CC1C(C(=O)O1)CCCCCC)OC(=O)C(CC(C)C)NC=O', 'cid': '3034010'}",2,-0.8049975,2.784919
+Dimethyl fumarate,"{'smiles': 'COC(=O)C=CC(=O)OC', 'cid': '637568'}",3,-1.3409438,-1.2174339
+Canagliflozin,"{'smiles': 'CC1=C(C=C(C=C1)C2C(C(C(C(O2)CO)O)O)O)CC3=CC=C(S3)C4=CC=C(C=C4)F', 'cid': '24812758'}",3,2.331027,0.19424435
+Relugolix,"{'smiles': 'CN(C)CC1=C(SC2=C1C(=O)N(C(=O)N2CC3=C(C=CC=C3F)F)C4=NN=C(C=C4)OC)C5=CC=C(C=C5)NC(=O)NOC', 'cid': '10348973'}",3,4.007688,1.100713
+Ouabain (Octahydrate),"{'smiles': 'CC1C(C(C(C(O1)OC2CC(C3(C4C(CCC3(C2)O)C5(CCC(C5(CC4O)C)C6=CC(=O)OC6)O)CO)O)O)O)O.O.O.O.O.O.O.O.O', 'cid': '6364534'}",2,0.43326235,4.5445404
+Topotecan (hydrochloride),"{'smiles': 'CCC1(C2=C(COC1=O)C(=O)N3CC4=CC5=C(C=CC(=C5CN(C)C)O)N=C4C3=C2)O.Cl', 'cid': '60699'}",0,3.1391568,2.596466
+Erdafitinib ,"{'smiles': 'CC(C)NCCN(C1=CC2=NC(=CN=C2C=C1)C3=CN(N=C3)C)C4=CC(=CC(=C4)OC)OC', 'cid': '67462786'}",3,4.447201,1.1909959
+Benproperine (phosphate),"{'smiles': 'CC(COC1=CC=CC=C1CC2=CC=CC=C2)N3CCCCC3.OP(=O)(O)O', 'cid': '167811'}",3,0.8538308,0.6232107
+HI-TOPK-032,"{'smiles': 'C1=CC=C2C(=C1)N=C3C(=C4C=C(C=CN4C3=N2)NC(=O)C5=CC=CS5)C#N', 'cid': '1936439'}",3,3.679056,0.70908874
+Tazarotene,"{'smiles': 'CCOC(=O)C1=CN=C(C=C1)C#CC2=CC3=C(C=C2)SCCC3(C)C', 'cid': '5381'}",3,0.16492651,-0.36399755
+Rimonabant,"{'smiles': 'CC1=C(N(N=C1C(=O)NN2CCCCC2)C3=C(C=C(C=C3)Cl)Cl)C4=CC=C(C=C4)Cl', 'cid': '104850'}",3,1.3699869,-0.4365002
+Belumosudil,"{'smiles': 'CC(C)NC(=O)COC1=CC=CC(=C1)C2=NC3=CC=CC=C3C(=N2)NC4=CC5=C(C=C4)NN=C5', 'cid': '11950170'}",3,3.1723032,0.37265185
+Pitavastatin (Calcium),"{'smiles': 'not found', 'cid': 'not found'}",3,-1.2347594,-1.2886813
+Menadione,"{'smiles': 'CC1=CC(=O)C2=CC=CC=C2C1=O', 'cid': '4055'}",2,0.6296798,1.0262353
+L-Thyroxine (sodium salt pentahydrate),"{'smiles': 'C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)[O-])N.O.O.O.O.O.[Na+]', 'cid': '23665037'}",3,4.606931,0.30613092
+Fenofibrate,"{'smiles': 'CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl', 'cid': '3339'}",3,0.79126316,0.6527978
+4EGI-1,"{'smiles': 'C1=CC=C(C(=C1)CC(=NNC2=NC(=CS2)C3=CC(=C(C=C3)Cl)Cl)C(=O)O)[N+](=O)[O-]', 'cid': '5717952'}",0,0.7957851,1.2284803
+Brimonidine,"{'smiles': 'C1CN=C(N1)NC2=C(C3=NC=CN=C3C=C2)Br', 'cid': '2435'}",3,-0.6436992,-0.17467606
+Epirubicin (hydrochloride),"{'smiles': 'CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O.Cl', 'cid': '65348'}",2,0.44225174,4.994654
+Triclosan,"{'smiles': 'C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl', 'cid': '5564'}",3,0.23138733,-0.6014354
+Pentamidine (isethionate),"{'smiles': 'C1=CC(=CC=C1C(=N)N)OCCCCCOC2=CC=C(C=C2)C(=N)N.C(CS(=O)(=O)O)O.C(CS(=O)(=O)O)O', 'cid': '8813'}",0,3.912709,2.1191006
+Sildenafil,"{'smiles': 'CCCC1=NN(C2=C1N=C(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C', 'cid': '135398744'}",0,1.326596,2.7365408
+DMSO_TF,"{'smiles': 'not found', 'cid': 'not found'}",3,-1.245733,-1.2781014
+Berbamine (dihydrochloride),"{'smiles': 'CN1CCC2=CC(=C3C=C2C1CC4=CC=C(C=C4)OC5=C(C=CC(=C5)CC6C7=C(O3)C(=C(C=C7CCN6C)OC)OC)O)OC.Cl.Cl', 'cid': '16217067'}",1,4.444492,0.36082333
+Lipoic acid,"{'smiles': 'C1CSSC1CCCCC(=O)O', 'cid': '6112'}",2,-0.67088825,2.6625092
+Hexylresorcinol,"{'smiles': 'CCCCCCC1=C(C=C(C=C1)O)O', 'cid': '3610'}",2,0.087425515,1.6608942
+Trametinib (DMSO_TF solvate),"{'smiles': 'not found', 'cid': 'not found'}",3,-1.2834526,-1.2415305
+Imiquimod (hydrochloride),"{'smiles': 'CC(C)CN1C=NC2=C1C3=CC=CC=C3N=C2N.Cl', 'cid': '13982876'}",2,0.7981887,2.4376516
+Niclosamide (olamine),"{'smiles': 'C1=CC(=C(C=C1[N+](=O)[O-])Cl)NC(=O)C2=C(C=CC(=C2)Cl)O.C(CO)N', 'cid': '14992'}",3,0.43153143,1.2121261
+Sivelestat (sodium tetrahydrate),"{'smiles': 'CC(C)(C)C(=O)OC1=CC=C(C=C1)S(=O)(=O)NC2=CC=CC=C2C(=O)NCC(=O)[O-].O.O.O.O.[Na+]', 'cid': '23663985'}",3,2.7814653,-1.0489945
+Salicylic acid,"{'smiles': 'C1=CC=C(C(=C1)C(=O)O)O', 'cid': '338'}",3,-0.8009878,0.5192504
+Erlotinib,"{'smiles': 'COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC', 'cid': '176870'}",3,2.9542131,0.6223385
+Carbamazepine,"{'smiles': 'C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N', 'cid': '2554'}",3,2.72379,-0.046646383
+Bendamustine,"{'smiles': 'CN1C2=C(C=C(C=C2)N(CCCl)CCCl)N=C1CCCC(=O)O', 'cid': '65628'}",2,0.45295548,2.5933917
+Penfluridol,"{'smiles': 'C1CN(CCC1(C2=CC(=C(C=C2)Cl)C(F)(F)F)O)CCCC(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F', 'cid': '33630'}",1,2.9906313,-0.564385
+Futibatinib,"{'smiles': 'COC1=CC(=CC(=C1)C#CC2=NN(C3=NC=NC(=C23)N)C4CCN(C4)C(=O)C=C)OC', 'cid': '71621331'}",0,2.3881752,2.3120093
+Idoxuridine,"{'smiles': 'C1C(C(OC1N2C=C(C(=O)NC2=O)I)CO)O', 'cid': '5905'}",2,-1.5840985,1.6057386
+8-Hydroxyquinoline,"{'smiles': 'C1=CC2=C(C(=C1)O)N=CC=C2', 'cid': '1923'}",3,-0.5834103,-1.0166309
+Ivabradine (hydrochloride),"{'smiles': 'CN(CCCN1CCC2=CC(=C(C=C2CC1=O)OC)OC)CC3CC4=CC(=C(C=C34)OC)OC.Cl', 'cid': '3045381'}",3,4.721949,1.3712808
+Perindopril (erbumine),"{'smiles': 'CCCC(C(=O)OCC)NC(C)C(=O)N1C2CCCCC2CC1C(=O)O.CC(C)(C)N', 'cid': '441313'}",2,-0.6207265,2.6844616
+Aprepitant,"{'smiles': 'CC(C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)OC2C(N(CCO2)CC3=NNC(=O)N3)C4=CC=C(C=C4)F', 'cid': '135413536'}",0,1.2450025,2.7862434
+Oxaliplatin,"{'smiles': 'C1CCC(C(C1)[NH-])[NH-].C(=O)(C(=O)O)O.[Pt+2]', 'cid': '9887053'}",2,-0.3935683,2.1586642
+Roxadustat,"{'smiles': 'CC1=C2C=C(C=CC2=C(C(=N1)C(=O)NCC(=O)O)O)OC3=CC=CC=C3', 'cid': '11256664'}",3,2.6837933,-0.8870389
+Anastrozole,"{'smiles': 'CC(C)(C#N)C1=CC(=CC(=C1)CN2C=NC=N2)C(C)(C)C#N', 'cid': '2187'}",2,0.5751003,3.0584576
+Hesperidin,"{'smiles': 'CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O', 'cid': '10621'}",0,0.71321815,4.9525323
+Rifaximin,"{'smiles': 'CC1C=CC=C(C(=O)NC2=C(C3=C(C4=C(C(=C3O)C)OC(C4=O)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C5=C2N6C=CC(=CC6=N5)C)O)C', 'cid': '6436173'}",1,4.734703,0.17711191
+Clofarabine,"{'smiles': 'C1=NC2=C(N=C(N=C2N1C3C(C(C(O3)CO)O)F)Cl)N', 'cid': '119182'}",0,-1.4576377,2.030473
+Lucanthone,"{'smiles': 'CCN(CC)CCNC1=C2C(=C(C=C1)C)SC3=CC=CC=C3C2=O', 'cid': '10180'}",2,0.8641518,2.224374
+Selinexor ,"{'smiles': 'C1=CN=C(C=N1)NNC(=O)C=CN2C=NC(=N2)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F', 'cid': '71481097'}",3,1.1014392,0.6285564
+AZD1390,"{'smiles': 'CC(C)N1C2=C(C=NC3=CC(=C(C=C32)C4=CN=C(C=C4)OCCCN5CCCCC5)F)N(C1=O)C', 'cid': '126689157'}",0,3.1373396,2.3077166
+Balsalazide (sodium hydrate),"{'smiles': 'C1=CC(=CC=C1C(=O)NCCC(=O)[O-])N=NC2=CC(=C(C=C2)[O-])C(=O)O.O.O.[Na+].[Na+]', 'cid': '92044433'}",3,0.6554682,0.43871838
+Tirabrutinib,"{'smiles': 'CC#CC(=O)N1CCC(C1)N2C3=NC=NC(=C3N(C2=O)C4=CC=C(C=C4)OC5=CC=CC=C5)N', 'cid': '54755438'}",0,3.0370445,1.4517721
+Neratinib (maleate),"{'smiles': 'CCOC1=C(C=C2C(=C1)N=CC(=C2NC3=CC(=C(C=C3)OCC4=CC=CC=N4)Cl)C#N)NC(=O)C=CCN(C)C.C(=CC(=O)O)C(=O)O', 'cid': '67307512'}",1,4.1628084,0.30579373
+Valdecoxib,"{'smiles': 'CC1=C(C(=NO1)C2=CC=CC=C2)C3=CC=C(C=C3)S(=O)(=O)N', 'cid': '119607'}",3,2.7080855,-0.73025864
+Entecavir (monohydrate),"{'smiles': 'C=C1C(CC(C1CO)O)N2C=NC3=C2N=C(NC3=O)N.O', 'cid': '135526609'}",2,-1.6598483,2.032047
+Riluzole hydrochloride,"{'smiles': 'C1=CC2=C(C=C1OC(F)(F)F)SC(=N2)N.Cl', 'cid': '6419992'}",2,-0.061090022,1.1213822
+Quinidine (15% dihydroquinidine),"{'smiles': 'not found', 'cid': 'not found'}",3,-1.2768745,-1.2374835
+Pasireotide (acetate),"{'smiles': 'CC(=O)O.C1C(CN2C1C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C2=O)CC3=CC=CC=C3)CC4=CC=C(C=C4)OCC5=CC=CC=C5)CCCCN)CC6=CNC7=CC=CC=C76)C8=CC=CC=C8)OC(=O)NCCN', 'cid': '72205932'}",1,3.2529643,-0.9276646
+Raltitrexed,"{'smiles': 'CC1=NC2=C(C=C(C=C2)CN(C)C3=CC=C(S3)C(=O)NC(CCC(=O)O)C(=O)O)C(=O)N1', 'cid': '135400182'}",0,0.03857387,3.423553
+TAK-733,"{'smiles': 'CN1C2=C(C(=C(C1=O)F)NC3=C(C=C(C=C3)I)F)C(=O)N(C=N2)CC(CO)O', 'cid': '24963252'}",3,2.113008,0.18648301
+BI-3406,"{'smiles': 'CC1=NC2=CC(=C(C=C2C(=N1)NC(C)C3=CC(=CC(=C3)N)C(F)(F)F)OC4CCOC4)OC', 'cid': '138911318'}",0,2.1134088,2.802481
+Acetohexamide,"{'smiles': 'CC(=O)C1=CC=C(C=C1)S(=O)(=O)NC(=O)NC2CCCCC2', 'cid': '1989'}",2,0.09277112,1.8465675
+Docetaxel (Trihydrate),"{'smiles': 'CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1OC(=O)C(C(C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)O.O.O.O', 'cid': '148123'}",1,4.5544686,-0.672535
+AZD-7648,"{'smiles': 'CC1=CC2=NC=NN2C=C1NC3=NC=C4C(=N3)N(C(=O)N4C)C5CCOCC5', 'cid': '135151360'}",0,2.2496207,2.6355524
+Binimetinib,"{'smiles': 'CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)F)C(=O)NOCCO', 'cid': '10288191'}",3,4.1963696,-1.0544577
+Peretinoin,"{'smiles': 'CC(=CCCC(=CCCC(=CC=CC(=CC(=O)O)C)C)C)C', 'cid': '6437836'}",3,0.5874104,0.38731855
+Capivasertib,"{'smiles': 'C1CN(CCC1(C(=O)NC(CCO)C2=CC=C(C=C2)Cl)N)C3=NC=NC4=C3C=CN4', 'cid': '25227436'}",0,1.9839568,3.25482
+L-Eflornithine (monohydrochloride),"{'smiles': 'C(CC(C(F)F)(C(=O)O)N)CN.Cl', 'cid': '16048568'}",2,-0.733784,1.6254833
+Pexidartinib (hydrochloride),"{'smiles': 'C1=CC(=NC=C1CC2=CNC3=C2C=C(C=N3)Cl)NCC4=CN=C(C=C4)C(F)(F)F.Cl', 'cid': '73053710'}",3,3.8028312,-0.19852185
+Saquinavir,"{'smiles': 'CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(C(CC3=CC=CC=C3)NC(=O)C(CC(=O)N)NC(=O)C4=NC5=CC=CC=C5C=C4)O', 'cid': '441243'}",3,3.3609161,-1.2736627
+Dorzolamide (hydrochloride),"{'smiles': 'CCNC1CC(S(=O)(=O)C2=C1C=C(S2)S(=O)(=O)N)C.Cl', 'cid': '6918132'}",2,0.1923123,1.769891
+Pentagastrin,"{'smiles': 'CC(C)(C)OC(=O)NCCC(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CCSC)C(=O)NC(CC(=O)O)C(=O)NC(CC3=CC=CC=C3)C(=O)N', 'cid': '9853654'}",1,3.3317232,-1.4655963
+Volasertib,"{'smiles': 'CCC1C(=O)N(C2=CN=C(N=C2N1C(C)C)NC3=C(C=C(C=C3)C(=O)NC4CCC(CC4)N5CCN(CC5)CC6CC6)OC)C', 'cid': '10461508'}",0,2.2082157,3.2658324
+Fedratinib (hydrochloride hydrate),"{'smiles': 'CC1=CN=C(N=C1NC2=CC(=CC=C2)S(=O)(=O)NC(C)(C)C)NC3=CC=C(C=C3)OCCN4CCCC4.O.Cl.Cl', 'cid': '67517580'}",0,2.1952682,3.0224512
+Terfenadine,"{'smiles': 'CC(C)(C)C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O', 'cid': '5405'}",3,2.4379106,0.039391186
+Anethole trithione,"{'smiles': 'COC1=CC=C(C=C1)C2=CC(=S)SS2', 'cid': '2194'}",3,-0.42669627,-1.0421457
+Glycyrrhizic acid,"{'smiles': 'CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C', 'cid': '14982'}",2,0.03442318,4.2851996
+(R)-Verapamil (hydrochloride),"{'smiles': 'CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC.Cl', 'cid': '170014'}",0,0.782247,3.380003
+Elagolix sodium,"{'smiles': 'CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)CC(C3=CC=CC=C3)NCCCC(=O)[O-])C4=C(C(=CC=C4)OC)F.[Na+]', 'cid': '24785956'}",1,3.926104,-0.8218206
+Pentoxifylline,"{'smiles': 'CC(=O)CCCCN1C(=O)C2=C(N=CN2C)N(C1=O)C', 'cid': '4740'}",2,-0.2957351,1.7185323
+Vortioxetine,"{'smiles': 'CC1=CC(=C(C=C1)SC2=CC=CC=C2N3CCNCC3)C', 'cid': '9966051'}",3,0.90640116,-0.2543413
+Triamcinolone,"{'smiles': 'CC12CC(C3(C(C1CC(C2(C(=O)CO)O)O)CCC4=CC(=O)C=CC43C)F)O', 'cid': '31307'}",2,-0.22902423,4.598196
+Everolimus,"{'smiles': 'CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)OCCO)C)C)O)OC)C)C)C)OC', 'cid': '6442177'}",2,0.6410156,4.4874167
+Doxycycline (monohydrate),"{'smiles': 'CC1C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O.O', 'cid': '54684461'}",2,0.22037402,5.0042033
+Pralsetinib,"{'smiles': 'CC1=CC(=NN1)NC2=NC(=NC(=C2)C)C3CCC(CC3)(C(=O)NC(C)C4=CN=C(C=C4)N5C=C(C=N5)F)OC', 'cid': '129073603'}",0,2.307559,2.725477
+Plicamycin,"{'smiles': 'CC1C(C(CC(O1)OC2CC(OC(C2O)C)OC3=CC4=CC5=C(C(=O)C(C(C5)C(C(=O)C(C(C)O)O)OC)OC6CC(C(C(O6)C)O)OC7CC(C(C(O7)C)O)OC8CC(C(C(O8)C)O)(C)O)C(=C4C(=C3C)O)O)O)O', 'cid': '163659'}",2,0.6939574,4.750802
+Fluvoxamine (maleate),"{'smiles': 'COCCCCC(=NOCCN)C1=CC=C(C=C1)C(F)(F)F.C(=CC(=O)O)C(=O)O', 'cid': '9560989'}",2,0.24555373,2.2891562
+Pimitespib,"{'smiles': 'CCC1=C(C=CC(=C1)C(=O)N)N2C3=NC=CC(=C3C(=N2)C(C)C)N4C=C(N=C4)C5=CN(N=C5)C', 'cid': '67501411'}",0,2.2864518,2.197582
+Abiraterone acetate,"{'smiles': 'CC(=O)OC1CCC2(C3CCC4(C(C3CC=C2C1)CC=C4C5=CN=CC=C5)C)C', 'cid': '9821849'}",2,-0.81250155,4.380894
+Omeprazole (sodium),"{'smiles': 'CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C([N-]2)C=C(C=C3)OC.[Na+]', 'cid': '12108541'}",3,4.5371885,1.4238232
+MK-8353,"{'smiles': 'CC(C)OC1=NC=C(C=C1)C2=NNC3=C2C=C(C=C3)NC(=O)C4(CCN(C4)CC(=O)N5CCC(=CC5)C6=CC=C(C=C6)C7=NN(C=N7)C)SC', 'cid': '58282870'}",0,4.405601,0.47918224
+BAY1125976,"{'smiles': 'C1CC(C1)(C2=CC=C(C=C2)C3=C(N4C(=N3)C=CC(=N4)C(=O)N)C5=CC=CC=C5)N', 'cid': '70817911'}",3,3.0419693,0.43412188
+Torkinib,"{'smiles': 'CC(C)N1C2=NC=NC(=C2C(=N1)C3=CC4=C(N3)C=CC(=C4)O)N', 'cid': '135565635'}",0,1.6288308,2.1518295
+Irinotecan,"{'smiles': 'CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)C4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7', 'cid': '60838'}",0,3.029186,2.7095947
+NG25,"{'smiles': 'CCN1CCN(CC1)CC2=C(C=C(C=C2)NC(=O)C3=CC(=C(C=C3)C)OC4=C5C=CNC5=NC=C4)C(F)(F)F', 'cid': '53340664'}",3,4.090964,-0.10124244
+Dexmedetomidine,"{'smiles': 'CC1=C(C(=CC=C1)C(C)C2=CN=CN2)C', 'cid': '5311068'}",3,0.12776111,-0.38549143
+Simotinib,"{'smiles': 'COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCN4CC5(CC5)C6(C4)OCCO6', 'cid': '16735117'}",0,2.0499961,3.265059
+OTS514,"{'smiles': 'CC1=CC(=C(C2=C1NC(=O)C3=C2C=CS3)C4=CC=C(C=C4)C(C)CN)O', 'cid': '67448836'}",3,4.5959754,0.8822905
+Atazanavir (sulfate),"{'smiles': 'CC(C)(C)C(C(=O)NC(CC1=CC=CC=C1)C(CN(CC2=CC=C(C=C2)C3=CC=CC=N3)NC(=O)C(C(C)(C)C)NC(=O)OC)O)NC(=O)OC.OS(=O)(=O)O', 'cid': '158550'}",1,3.5109487,-0.9414471
+crizotinib,"{'smiles': 'CC(C1=C(C=CC(=C1Cl)F)Cl)OC2=C(N=CC(=C2)C3=CN(N=C3)C4CCNCC4)N', 'cid': '11626560'}",3,1.1903193,-0.3825181
+Ipatasertib,"{'smiles': 'CC1CC(C2=C1C(=NC=N2)N3CCN(CC3)C(=O)C(CNC(C)C)C4=CC=C(C=C4)Cl)O', 'cid': '24788740'}",0,1.9386086,3.248235
+Idarubicin (hydrochloride),"{'smiles': 'CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=CC=CC=C5C4=O)O)(C(=O)C)O)N)O.Cl', 'cid': '636362'}",2,0.40582547,5.0484614
+Edoxaban (tosylate monohydrate),"{'smiles': 'CC1=CC=C(C=C1)S(=O)(=O)O.CN1CCC2=C(C1)SC(=N2)C(=O)NC3CC(CCC3NC(=O)C(=O)NC4=NC=C(C=C4)Cl)C(=O)N(C)C.O', 'cid': '25022378'}",3,3.9064732,1.4819847
+LB-100,"{'smiles': 'CN1CCN(CC1)C(=O)C2C3CCC(C2C(=O)O)O3', 'cid': '45101433'}",2,-0.99438804,2.6478033
+Darinaparsin,"{'smiles': 'C[As](C)SCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N', 'cid': '11683005'}",2,0.18296897,0.86187273
+Dihydroartemisinin,"{'smiles': 'CC1CCC2C(C(OC3C24C1CCC(O3)(OO4)C)O)C', 'cid': '3000518'}",2,-1.1469221,2.8537517
+Citalopram (hydrobromide),"{'smiles': 'CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F.Br', 'cid': '77995'}",0,0.918456,3.11903
+Macitentan,"{'smiles': 'CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br', 'cid': '16004692'}",3,3.483303,0.5021382
+Ataluren,"{'smiles': 'C1=CC=C(C(=C1)C2=NC(=NO2)C3=CC(=CC=C3)C(=O)O)F', 'cid': '11219835'}",3,3.8456616,-0.96979034
+Retinoic acid,"{'smiles': 'CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C', 'cid': '444795'}",3,0.3444157,-0.17293829
+ETC-206,"{'smiles': 'C1COCCN1C(=O)C2=CC=C(C=C2)C3=CN4C(=NC=C4C5=CC=C(C=C5)C#N)C=C3', 'cid': '71766360'}",3,2.908695,-0.29129723
+Pemigatinib,"{'smiles': 'CCN1C2=C3C=C(NC3=NC=C2CN(C1=O)C4=C(C(=CC(=C4F)OC)OC)F)CN5CCOCC5', 'cid': '86705695'}",0,2.4844868,3.1187975
+Clopidogrel,"{'smiles': 'COC(=O)C(C1=CC=CC=C1Cl)N2CCC3=C(C2)C=CS3', 'cid': '60606'}",2,0.3052514,1.9521854
+Bentamapimod,"{'smiles': 'C1COCCN1CC2=CC=C(C=C2)COC3=NC=CC(=N3)C(C#N)C4=NC5=CC=CC=C5S4', 'cid': '10195250'}",3,4.032893,1.0130517
+9-ING-41,"{'smiles': 'CN1C=C(C2=CC3=C(C=C21)OCO3)C4=C(C(=O)NC4=O)C5=COC6=C5C=C(C=C6)F', 'cid': '44582816'}",3,4.5993443,0.70932156
+Bestatin (hydrochloride),"{'smiles': 'CC(C)CC(C(=O)O)NC(=O)C(C(CC1=CC=CC=C1)N)O.Cl', 'cid': '11957481'}",2,-0.15136704,2.1176767
+Afatinib,"{'smiles': 'CN(C)CC=CC(=O)NC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C=C3)F)Cl)OC4CCOC4', 'cid': '10184653'}",0,1.4213232,2.4714596
+Azithromycin (hydrate),"{'smiles': 'CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O.O.O', 'cid': '3033819'}",2,0.6530227,4.4200926
+Gefitinib,"{'smiles': 'COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4', 'cid': '123631'}",0,2.1329007,3.1407905
+Larotrectinib sulfate,"{'smiles': 'C1CC(N(C1)C2=NC3=C(C=NN3C=C2)NC(=O)N4CCC(C4)O)C5=C(C=CC(=C5)F)F.OS(=O)(=O)O', 'cid': '67330085'}",0,2.0350235,2.631755
+Cysteamine (hydrochloride),"{'smiles': 'C(CS)N.Cl', 'cid': '9082'}",3,-1.2005173,-1.1634737
+ERK5-IN-2,"{'smiles': 'C1=CC(=C(C(=C1)Br)C(=O)C2=CNC(=C2)C(=O)NC3=CN=CC=C3)F', 'cid': '118959080'}",3,3.987034,-0.49023718
+Sulfisoxazole,"{'smiles': 'CC1=C(ON=C1C)NS(=O)(=O)C2=CC=C(C=C2)N', 'cid': '5344'}",3,-0.13547973,1.0720223
+Ligustrazine,"{'smiles': 'CC1=C(N=C(C(=N1)C)C)C', 'cid': '14296'}",3,-0.79501516,-1.0378695
+Lopinavir,"{'smiles': 'CC1=C(C(=CC=C1)C)OCC(=O)NC(CC2=CC=CC=C2)C(CC(CC3=CC=CC=C3)NC(=O)C(C(C)C)N4CCCNC4=O)O', 'cid': '92727'}",3,3.0899713,-0.8029724
+Altretamine,"{'smiles': 'CN(C)C1=NC(=NC(=N1)N(C)C)N(C)C', 'cid': '2123'}",0,-1.7921606,1.9172399
+Vismodegib,"{'smiles': 'CS(=O)(=O)C1=CC(=C(C=C1)C(=O)NC2=CC(=C(C=C2)Cl)C3=CC=CC=N3)Cl', 'cid': '24776445'}",3,2.3813715,-0.6931583
+Lidocaine (hydrochloride),"{'smiles': 'CCN(CC)CC(=O)NC1=C(C=CC=C1C)C.Cl', 'cid': '6314'}",2,0.5257928,1.7434678
+Diphenhydramine,"{'smiles': 'CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2', 'cid': '3100'}",3,1.066545,0.31396583
+Neratinib,"{'smiles': 'CCOC1=C(C=C2C(=C1)N=CC(=C2NC3=CC(=C(C=C3)OCC4=CC=CC=N4)Cl)C#N)NC(=O)C=CCN(C)C', 'cid': '9915743'}",3,3.9652915,0.3677756
+Palmatine (chloride),"{'smiles': 'COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC.[Cl-]', 'cid': '73442'}",3,4.6282325,1.1131144
+Mifepristone,"{'smiles': 'CC#CC1(CCC2C1(CC(C3=C4CCC(=O)C=C4CCC23)C5=CC=C(C=C5)N(C)C)C)O', 'cid': '55245'}",2,-0.9008217,4.4254594
+Ciclopirox,"{'smiles': 'CC1=CC(=O)N(C(=C1)C2CCCCC2)O', 'cid': '2749'}",2,-1.2251129,1.4015702
+Mitoxantrone (dihydrochloride),"{'smiles': 'C1=CC(=C2C(=C1NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O)NCCNCCO.Cl.Cl', 'cid': '51082'}",2,1.053864,2.3321033
+Omeprazole,"{'smiles': 'CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC', 'cid': '4594'}",3,4.6309695,1.3876987
+BI-78D3,"{'smiles': 'C1COC2=C(O1)C=CC(=C2)N3C(=O)NN=C3SC4=NC=C(S4)[N+](=O)[O-]', 'cid': '2747117'}",0,-1.4248668,1.98644
+Bortezomib,"{'smiles': 'B(C(CC(C)C)NC(=O)C(CC1=CC=CC=C1)NC(=O)C2=NC=CN=C2)(O)O', 'cid': '387447'}",3,-0.9762829,-1.3494774
+Vemurafenib,"{'smiles': 'CCCS(=O)(=O)NC1=C(C(=C(C=C1)F)C(=O)C2=CNC3=C2C=C(C=N3)C4=CC=C(C=C4)Cl)F', 'cid': '42611257'}",1,4.1164594,-1.074395
+5-Azacytidine,"{'smiles': 'C1=NC(=NC(=O)N1C2C(C(C(O2)CO)O)O)N', 'cid': '9444'}",2,-1.6942524,1.8981999
+Tolcapone,"{'smiles': 'CC1=CC=C(C=C1)C(=O)C2=CC(=C(C(=C2)O)O)[N+](=O)[O-]', 'cid': '4659569'}",2,0.6922896,1.2483388
+Chlorhexidine (diacetate),"{'smiles': 'CC(=O)O.CC(=O)O.C1=CC(=CC=C1NC(=NC(=NCCCCCCN=C(N)N=C(N)NC2=CC=C(C=C2)Cl)N)N)Cl', 'cid': '9562059'}",0,2.6902964,1.1634029
+Ornidazole,"{'smiles': 'CC1=NC=C(N1CC(CCl)O)[N+](=O)[O-]', 'cid': '28061'}",2,-0.7708163,2.5569122
+Minodronic acid,"{'smiles': 'C1=CC2=NC=C(N2C=C1)CC(O)(P(=O)(O)O)P(=O)(O)O', 'cid': '130956'}",2,-1.2302591,1.1164564
+EX229,"{'smiles': 'CC1=C(C=C(C=C1)OC2=NC3=C(N2)C=C(C(=C3)C4=CC5=C(C=C4)N(C=C5)C)Cl)C(=O)O', 'cid': '45256693'}",3,4.293297,0.09904089
+Allantoin,"{'smiles': 'C1(C(=O)NC(=O)N1)NC(=O)N', 'cid': '204'}",3,-1.1721001,-0.45792592
+Piroxicam,"{'smiles': 'CN1C(=C(C2=CC=CC=C2S1(=O)=O)O)C(=O)NC3=CC=CC=N3', 'cid': '54676228'}",3,3.3846776,-0.55459726
+Rucaparib (phosphate),"{'smiles': 'CNCC1=CC=C(C=C1)C2=C3CCNC(=O)C4=C3C(=CC(=C4)F)N2.OP(=O)(O)O', 'cid': '9931953'}",3,2.0651362,-0.43491155
+Isocorydine,"{'smiles': 'CN1CCC2=CC(=C(C3=C2C1CC4=C3C(=C(C=C4)OC)O)OC)OC', 'cid': '10143'}",3,4.743003,1.3096949
+Fluvoxamine,"{'smiles': 'COCCCCC(=NOCCN)C1=CC=C(C=C1)C(F)(F)F', 'cid': '5324346'}",2,0.39080423,1.3927344
+Daptomycin,"{'smiles': 'CCCCCCCCCC(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CC(=O)N)C(=O)NC(CC(=O)O)C(=O)NC3C(OC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CNC3=O)CCCN)CC(=O)O)C)CC(=O)O)CO)C(C)CC(=O)O)CC(=O)C4=CC=CC=C4N)C', 'cid': '21585658'}",1,3.185257,-1.6348267
+Econazole,"{'smiles': 'C1=CC(=CC=C1COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl)Cl', 'cid': '3198'}",3,0.90759706,-0.20233755
+Ponatinib,"{'smiles': 'CC1=C(C=C(C=C1)C(=O)NC2=CC(=C(C=C2)CN3CCN(CC3)C)C(F)(F)F)C#CC4=CN=C5N4N=CC=C5', 'cid': '24826799'}",3,3.8623374,-0.19125515
+Asciminib,"{'smiles': 'C1CN(CC1O)C2=C(C=C(C=N2)C(=O)NC3=CC=C(C=C3)OC(F)(F)Cl)C4=CC=NN4', 'cid': '72165228'}",3,1.4142601,0.18432374
+Baicalin,"{'smiles': 'C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC4C(C(C(C(O4)C(=O)O)O)O)O)O)O', 'cid': '64982'}",0,0.6732299,4.948275
+Dabrafenib,"{'smiles': 'CC(C)(C)C1=NC(=C(S1)C2=NC(=NC=C2)N)C3=C(C(=CC=C3)NS(=O)(=O)C4=C(C=CC=C4F)F)F', 'cid': '44462760'}",3,3.7020183,-0.87388533
+Hydroxyurea,"{'smiles': 'C(=O)(N)NO', 'cid': '3657'}",1,-1.4549274,-0.8771186
+Trimetrexate,"{'smiles': 'CC1=C(C=CC2=C1C(=NC(=N2)N)N)CNC3=CC(=C(C(=C3)OC)OC)OC', 'cid': '5583'}",0,2.6956313,1.3849577
+Bexarotene,"{'smiles': 'CC1=CC2=C(C=C1C(=C)C3=CC=C(C=C3)C(=O)O)C(CCC2(C)C)(C)C', 'cid': '82146'}",3,0.14942557,-0.38224503
+Pioglitazone,"{'smiles': 'CCC1=CN=C(C=C1)CCOC2=CC=C(C=C2)CC3C(=O)NC(=O)S3', 'cid': '4829'}",3,4.249062,1.3570049
+Finasteride,"{'smiles': 'CC12CCC3C(C1CCC2C(=O)NC(C)(C)C)CCC4C3(C=CC(=O)N4)C', 'cid': '57363'}",2,-0.6672282,4.235526
+Darolutamide,"{'smiles': 'CC(CN1C=CC(=N1)C2=CC(=C(C=C2)C#N)Cl)NC(=O)C3=NNC(=C3)C(C)O', 'cid': '67171867'}",2,0.94536245,2.553845
+Sulfatinib,"{'smiles': 'CC1=CC2=C(N1)C=CC(=C2)OC3=NC(=NC=C3)NC4=CC=CC(=C4)CS(=O)(=O)NCCN(C)C', 'cid': '52920501'}",3,4.135737,0.47970575
+Doxorubicin (hydrochloride),"{'smiles': 'CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O.Cl', 'cid': '443939'}",2,0.35619378,5.0600114
+Talc,"{'smiles': '[OH-].[OH-].[O-][Si]12O[Si]3(O[Si](O1)(O[Si](O2)(O3)[O-])[O-])[O-].[Mg+2].[Mg+2].[Mg+2]', 'cid': '165411828'}",2,-1.2296048,0.7460643
+Delamanid,"{'smiles': 'CC1(CN2C=C(N=C2O1)[N+](=O)[O-])COC3=CC=C(C=C3)N4CCC(CC4)OC5=CC=C(C=C5)OC(F)(F)F', 'cid': '6480466'}",0,1.4971075,3.0669994
+Dapagliflozin,"{'smiles': 'CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)C3C(C(C(C(O3)CO)O)O)O)Cl', 'cid': '9887712'}",2,1.988667,0.608688
+Fingolimod (hydrochloride),"{'smiles': 'CCCCCCCCC1=CC=C(C=C1)CCC(CO)(CO)N.Cl', 'cid': '107969'}",2,0.46174118,2.1030142
+Clonidine (hydrochloride),"{'smiles': 'C1CN=C(N1)NC2=C(C=CC=C2Cl)Cl.Cl', 'cid': '20179'}",2,-0.33093157,0.06853987
+Tirabrutinib (hydrochloride),"{'smiles': 'CC#CC(=O)N1CCC(C1)N2C3=NC=NC(=C3N(C2=O)C4=CC=C(C=C4)OC5=CC=CC=C5)N.Cl', 'cid': '71571562'}",0,2.970381,1.5152813
+Phenylephrine (hydrochloride),"{'smiles': 'CNCC(C1=CC(=CC=C1)O)O.Cl', 'cid': '5284443'}",3,-0.061278906,1.2087867
+Ribociclib,"{'smiles': 'CN(C)C(=O)C1=CC2=CN=C(N=C2N1C3CCCC3)NC4=NC=C(C=C4)N5CCNCC5', 'cid': '44631912'}",0,2.394439,2.9929907
+Mozavaptan,"{'smiles': 'CC1=CC=CC=C1C(=O)NC2=CC=C(C=C2)C(=O)N3CCCC(C4=CC=CC=C43)N(C)C', 'cid': '119369'}",3,2.8187087,-0.53376025
+Betamethasone dipropionate,"{'smiles': 'CCC(=O)OCC(=O)C1(C(CC2C1(CC(C3(C2CCC4=CC(=O)C=CC43C)F)O)C)C)OC(=O)CC', 'cid': '21800'}",2,-0.25978398,4.6065564
+LJI308,"{'smiles': 'C1COCCN1C2=CC=C(C=C2)C3=C(C=NC=C3)C4=CC(=C(C(=C4)F)O)F', 'cid': '118704762'}",3,2.864144,-0.4202692
+Auranofin,"{'smiles': 'CCP(CC)CC.CC(=O)OCC1C(C(C(C(O1)[S-])OC(=O)C)OC(=O)C)OC(=O)C.[Au+]', 'cid': '16667669'}",2,-1.0791284,2.2570772
+Trifluridine,"{'smiles': 'C1C(C(OC1N2C=C(C(=O)NC2=O)C(F)(F)F)CO)O', 'cid': '6256'}",2,-0.80929023,1.5211807
+Nafamostat (mesylate),"{'smiles': 'CS(=O)(=O)O.CS(=O)(=O)O.C1=CC(=CC=C1C(=O)OC2=CC3=C(C=C2)C=C(C=C3)C(=N)N)N=C(N)N', 'cid': '5311180'}",3,4.021803,1.8182892
+Nimesulide,"{'smiles': 'CS(=O)(=O)NC1=C(C=C(C=C1)[N+](=O)[O-])OC2=CC=CC=C2', 'cid': '4495'}",3,0.42624536,1.0870384
+gamma-Oryzanol,"{'smiles': 'CC(CCC=C(C)C)C1CCC2(C1(CCC34C2CCC5C3(C4)CCC(C5(C)C)OC(=O)C=CC6=CC(=C(C=C6)O)OC)C)C', 'cid': '5282164'}",2,-0.7985323,4.3826194
+Drospirenone,"{'smiles': 'CC12CCC(=O)C=C1C3CC3C4C2CCC5(C4C6CC6C57CCC(=O)O7)C', 'cid': '68873'}",2,-0.57946634,4.4373603
+venetoclax,"{'smiles': 'CC1(CCC(=C(C1)C2=CC=C(C=C2)Cl)CN3CCN(CC3)C4=CC(=C(C=C4)C(=O)NS(=O)(=O)C5=CC(=C(C=C5)NCC6CCOCC6)[N+](=O)[O-])OC7=CN=C8C(=C7)C=CN8)C', 'cid': '49846579'}",1,3.9767864,0.5144363
+Cepharanthine,"{'smiles': 'CN1CCC2=CC3=C(C4=C2C1CC5=CC=C(C=C5)OC6=C(C=CC(=C6)CC7C8=CC(=C(C=C8CCN7C)OC)O4)OC)OCO3', 'cid': '10206'}",1,4.631135,0.588397
+Docetaxel,"{'smiles': 'CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1OC(=O)C(C(C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)O', 'cid': '148124'}",1,4.6011286,-0.59892863
+Harringtonine,"{'smiles': 'CC(C)(CCC(CC(=O)OC)(C(=O)OC1C2C3=CC4=C(C=C3CCN5C2(CCC5)C=C1OC)OCO4)O)O', 'cid': '276389'}",2,0.42988974,4.337621
+Dinaciclib,"{'smiles': 'CCC1=C2N=C(C=C(N2N=C1)NCC3=C[N+](=CC=C3)[O-])N4CCCCC4CCO', 'cid': '46926350'}",2,1.2656157,2.684433
+Tadalafil,"{'smiles': 'CN1CC(=O)N2C(C1=O)CC3=C(C2C4=CC5=C(C=C4)OCO5)NC6=CC=CC=C36', 'cid': '110635'}",3,4.4783087,0.5021493
+S-Adenosyl-L-methionine (disulfate tosylate),"{'smiles': 'CC1=CC=C(C=C1)S(=O)(=O)O.C[S+](CCC(C(=O)O)N)CC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)O.OS(=O)(=O)O.OS(=O)(=O)[O-]', 'cid': '9875462'}",1,3.9981031,1.9570062
+Lonafarnib,"{'smiles': 'C1CN(CCC1CC(=O)N2CCC(CC2)C3C4=C(CCC5=C3N=CC(=C5)Br)C=C(C=C4Br)Cl)C(=O)N', 'cid': '148195'}",3,4.247267,1.1686393
+Proglumide,"{'smiles': 'CCCN(CCC)C(=O)C(CCC(=O)O)NC(=O)C1=CC=CC=C1', 'cid': '4922'}",2,-0.35042942,2.4147246
+Sapanisertib,"{'smiles': 'CC(C)N1C2=NC=NC(=C2C(=N1)C3=CC4=C(C=C3)OC(=N4)N)N', 'cid': '45375953'}",0,1.907271,2.2450507
+Berberine (chloride hydrate),"{'smiles': 'COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC.O.[Cl-]', 'cid': '155074'}",3,4.7486973,0.95053864
+palbociclib,"{'smiles': 'CC1=C(C(=O)N(C2=NC(=NC=C12)NC3=NC=C(C=C3)N4CCNCC4)C5CCCC5)C(=O)C', 'cid': '5330286'}",0,2.4532168,2.6867545
+5-Fluorouracil,"{'smiles': 'C1=C(C(=O)NC(=O)N1)F', 'cid': '3385'}",3,-1.1084261,0.06122177
+Vitamin K4,"{'smiles': 'CC1=C(C2=CC=CC=C2C(=C1)OC(=O)C)OC(=O)C', 'cid': '11310'}",3,-0.42311168,-1.0481704
+Pyridoxine,"{'smiles': 'CC1=NC=C(C(=C1O)CO)CO', 'cid': '1054'}",3,-0.9424068,-0.76003885
+Almonertinib (mesylate),"{'smiles': 'CN(C)CCN(C)C1=CC(=C(C=C1NC(=O)C=C)NC2=NC=CC(=N2)C3=CN(C4=CC=CC=C43)C5CC5)OC.CS(=O)(=O)O', 'cid': '162368359'}",0,3.8053637,1.841085
+Larotrectinib,"{'smiles': 'C1CC(N(C1)C2=NC3=C(C=NN3C=C2)NC(=O)N4CCC(C4)O)C5=C(C=CC(=C5)F)F', 'cid': '46188928'}",0,1.3757259,2.751663
+Lapatinib ditosylate,"{'smiles': 'CC1=CC=C(C=C1)S(=O)(=O)O.CC1=CC=C(C=C1)S(=O)(=O)O.CS(=O)(=O)CCNCC1=CC=C(O1)C2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=CC(=CC=C5)F)Cl.O', 'cid': '11557040'}",1,3.3420746,-0.23030421
+Vandetanib,"{'smiles': 'CN1CCC(CC1)COC2=C(C=C3C(=C2)N=CN=C3NC4=C(C=C(C=C4)Br)F)OC', 'cid': '3081361'}",0,1.7189472,3.0086846
+Temuterkib,"{'smiles': 'CC1(C2=C(C=C(S2)C3=NC(=NC=C3)NC4=CC=NN4C)C(=O)N1CCN5CCOCC5)C', 'cid': '121408882'}",0,2.489607,3.0693393

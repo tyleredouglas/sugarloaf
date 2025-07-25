@@ -1,0 +1,14 @@
+transformers
+torch
+numpy
+pandas
+scanpy
+anndata
+pyarrow
+gcsfs
+requests
+
+[dev]
+pytest
+jupyter
+matplotlib

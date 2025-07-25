@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: sugarloaf
+Version: 0.1.0
+Summary: Drug response prediction using single-cell data
+Requires-Python: >=3.8
+Requires-Dist: transformers
+Requires-Dist: torch
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scanpy
+Requires-Dist: anndata
+Requires-Dist: pyarrow
+Requires-Dist: gcsfs
+Requires-Dist: requests
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: jupyter; extra == "dev"
+Requires-Dist: matplotlib; extra == "dev"
+Dynamic: requires-python

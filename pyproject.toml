@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sugarloaf"
+version = "0.1.0"
+description = "Drug response prediction using single-cell data"
+requires-python = ">=3.8"
+dependencies = [
+    "transformers",
+    "torch",
+    "numpy",
+    "pandas",
+    "scanpy",
+    "anndata",
+    "pyarrow",
+    "gcsfs",
+    "requests",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "jupyter",
+    "matplotlib",
+]
+
+[tool.setuptools.packages.find]
+include = ["src*"]
+
+[tool.setuptools.package-dir]
+"" = "."
